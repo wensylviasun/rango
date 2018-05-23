@@ -1,1 +1,3 @@
 # rango
+
+This is a sample Django project...
